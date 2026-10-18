@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-171923?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-r%C3%B3%C5%BCycki-593430261/)
 [![GitHub](https://img.shields.io/badge/GITHUB-171923?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patryk-rozycki)
-![Profile views](https://komarev.com/ghpvc/?username=patryk-rozycki&color=555555&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="./assets/terminal.svg" alt="Animated terminal introduction" width="100%" />
 
